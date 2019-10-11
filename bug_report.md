@@ -23,7 +23,7 @@ If applicable, add screenshots to help explain your problem.
 **Device (please complete the following information):**
  - iOS Version: 
  - iOS Device: 
- - unc0ver Version: 
+ - Version: 
 
 **Place an "x" between the brackets if true:**
  - [ ] this is a bug others will be able to reproduce
